@@ -10,7 +10,7 @@
             <Spanish>Sentarse</Spanish>
             <French>S'asseoir</French>
             <Hungarian>Leülés</Hungarian>
-            <Russian>Сесть</Russian>
+            <Russian>Сісти</Russian>
             <Italian>Siediti</Italian>
             <Japanese>座る</Japanese>
             <Korean>앉기</Korean>
@@ -26,7 +26,7 @@
             <Spanish>Levantarse</Spanish>
             <French>Se lever</French>
             <Hungarian>Felállás</Hungarian>
-            <Russian>Встать</Russian>
+            <Russian>Піднятися</Russian>
             <Italian>Alzati</Italian>
             <Japanese>立つ</Japanese>
             <Korean>일어서기</Korean>
@@ -42,7 +42,7 @@
             <Spanish>Activar asiento</Spanish>
             <French>Permettre de s'asseoir</French>
             <Hungarian>Ülés engedélyezése</Hungarian>
-            <Russian>Разрешить сидение</Russian>
+            <Russian>Дозволити сидіння</Russian>
             <Italian>Abilita seduta</Italian>
             <Japanese>座るのを有効化</Japanese>
             <Korean>앉기 사용</Korean>
@@ -58,7 +58,7 @@
             <Spanish>Sentarse</Spanish>
             <French>S'asseoir</French>
             <Hungarian>Ülés</Hungarian>
-            <Russian>Сидение</Russian>
+            <Russian>Сидіння</Russian>
             <Italian>Sedersi</Italian>
             <Japanese>着座</Japanese>
             <Korean>앉기</Korean>
@@ -74,7 +74,7 @@
             <Spanish>Este módulo te permite desactivar la capacidad de sentarse en sillas.</Spanish>
             <French>Ce module contrôle la capacité de s'asseoir sur des chaises.</French>
             <Hungarian>Ez a modul lehetővé teszi a székekre és toalettekre való leülés letiltását.</Hungarian>
-            <Russian>Этот модуль позволяет вам запретить возможность садиться на стулья и туалеты.</Russian>
+            <Russian>Цей модуль дозволяє вам заборонити можливість сідати на стільці або туалети.</Russian>
             <Italian>Questo modulo ti permette di disabilitare la possibilità di sederti sulle sedie.</Italian>
             <Japanese>モジュールでは椅子に着席するのを無効化できます。</Japanese>
             <Korean>이 모듈을 사용하여 의자에 앉을 수 있는 기능을 비활성 할 수 있습니다.</Korean>
