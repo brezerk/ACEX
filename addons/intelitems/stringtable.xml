@@ -3,41 +3,49 @@
     <Package name="intelItems">
         <Key ID="STR_ACEX_IntelItems_Category">
             <English>ACEX Intel Items</English>
+            <Russian>ACEX Розвіддані</Russian>
             <Chinese>ACEX 情報物品</Chinese>
             <Japanese>ACEX 機密アイテム</Japanese>
         </Key>
         <Key ID="STR_ACEX_IntelItems_DisplayName">
             <English>Intel Items</English>
+            <Russian>Предмети розвідданих</Russian>
             <Chinese>情報物品</Chinese>
             <Japanese>機密アイテム</Japanese>
         </Key>
         <Key ID="STR_ACEX_IntelItems_Notepad_DisplayName">
             <English>Notepad</English>
+            <Russian>Блокнот</Russian>
             <Chinese>筆記本</Chinese>
             <Japanese>メモ</Japanese>
         </Key>
         <Key ID="STR_ACEX_IntelItems_Notepad_Description">
             <English>Notepad - Can access from the map screen</English>
+            <Russian>Блокнот - можна відкрити з екрана карти</Russian>
             <Chinese>筆記本 - 可以透過地圖界面來存取</Chinese>
             <Japanese>メモ - マップ画面から確認可能</Japanese>
         </Key>
         <Key ID="STR_ACEX_IntelItems_Document_DisplayName">
             <English>Document</English>
+            <Russian>Документ</Russian>
             <Chinese>文件</Chinese>
             <Japanese>資料</Japanese>
         </Key>
         <Key ID="STR_ACEX_IntelItems_Document_Description">
             <English>Printed Document - Can access from the map screen</English>
+            <Russian>Розпечатний документ - можна відкрити з екрана карти</Russian>
             <Chinese>影印文件 - 可以透過地圖界面來存取</Chinese>
             <Japanese>メモ - マップ画面から確認可能</Japanese>
         </Key>
         <Key ID="STR_ACEX_IntelItems_Photo_DisplayName">
             <English>Photo</English>
+            <Russian>фотографія</Russian>
             <Chinese>相片</Chinese>
             <Japanese>写真</Japanese>
         </Key>
         <Key ID="STR_ACEX_IntelItems_Photo_Description">
             <English>Photo - Can access from the map screen</English>
+            <Russian>фотографія - можна відкрити з екрана карти</Russian>
             <Chinese>相片  - 可以透過地圖界面來存取</Chinese>
             <Japanese>写真 - マップ画面から確認可能</Japanese>
         </Key>
@@ -56,6 +64,7 @@
         </Key>
         <Key ID="STR_ACEX_IntelItems_Photo_Filename">
             <English>Photo Filename</English>
+            <English>Назва файла фото</English>
             <Chinese>相片名稱</Chinese>
             <Japanese>写真名</Japanese>
         </Key>
@@ -67,7 +76,7 @@
             <Italian>Prelevare</Italian>
             <Polish>Podnieś</Polish>
             <Portuguese>Pegar</Portuguese>
-            <Russian>Подобрать</Russian>
+            <Russian>Підібрати</Russian>
             <Spanish>Recoger</Spanish>
             <Chinese>撿起</Chinese>
             <Japanese>拾う</Japanese>
