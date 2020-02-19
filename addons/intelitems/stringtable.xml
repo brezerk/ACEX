@@ -64,11 +64,7 @@
         </Key>
         <Key ID="STR_ACEX_IntelItems_Photo_Filename">
             <English>Photo Filename</English>
-<<<<<<< HEAD
             <Russian>Назва файла фото</Russian>
-=======
-            <English>Назва файла фото</English>
->>>>>>> 2d4da50048dd0139bb275a7bce642b7e52cb95ef
             <Chinese>相片名稱</Chinese>
             <Japanese>写真名</Japanese>
         </Key>
